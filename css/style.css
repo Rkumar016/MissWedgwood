@@ -958,7 +958,12 @@ html.about_page .mob_img img {
     font-size: 32px;
     padding: 38px 0 17px 0;
 }
-
+.contact-bottom .left {
+    width: 100%;
+}
+.contact-bottom .right {
+    width: 100%;
+}	
 
 }
 @media screen and (max-width: 660px) {
